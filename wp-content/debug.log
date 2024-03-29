@@ -1,0 +1,7 @@
+[29-Mar-2024 11:36:01 UTC] PHP Warning:  Undefined variable $post_ID in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 41
+[29-Mar-2024 11:36:01 UTC] PHP Warning:  Undefined variable $post_ID in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 42
+[29-Mar-2024 11:36:02 UTC] PHP Warning:  Undefined variable $post_ID in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 44
+[29-Mar-2024 12:37:59 UTC] PHP Warning:  Undefined variable $url_to_shorten in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 90
+[29-Mar-2024 12:37:59 UTC] PHP Warning:  Undefined variable $shortened_url in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 91
+[29-Mar-2024 12:38:00 UTC] PHP Warning:  Undefined variable $url_to_shorten in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 90
+[29-Mar-2024 12:38:00 UTC] PHP Warning:  Undefined variable $shortened_url in C:\xampp\htdocs\wp_tiny_url\wp-content\plugins\shortcuts-url\shortcut_url.php on line 91
